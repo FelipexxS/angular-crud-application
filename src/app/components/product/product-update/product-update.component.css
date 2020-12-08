@@ -1,0 +1,12 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input:focus {
+  box-shadow: 4px 4px 12px rgba(44, 136, 241, 0.267);
+}
+
+button {
+  margin: 20px 15px 0px 0px;
+}
